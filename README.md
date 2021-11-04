@@ -19,6 +19,8 @@ live demo
 ## Installation:
 - clone the repository
 - run `yarn`
+- update config.ts
+- create ostrom mysql database
 - run `yarn start`
 - run `yarn test`
 
