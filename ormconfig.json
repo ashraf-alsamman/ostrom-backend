@@ -1,0 +1,10 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": 16530,
+    "username": "root",
+    "password": "",
+    "database": "ostrom",
+     "entities": ["join(__dirname, src/**/**.entity{.ts,.js}')"],
+      "synchronize": true
+  }
