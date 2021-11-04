@@ -1,7 +1,9 @@
 # ostrom-backend
 
-A simple crud project.
- 
+A crud project.
+
+live demo
+* https://ostrom-frontend.herokuapp.com
 
 ## Requirements:
 - Yarn
@@ -20,5 +22,5 @@ A simple crud project.
 - run `yarn start`
 - run `yarn test`
 
-live demo
-* https://ostrom-frontend.herokuapp.com
+documentation
+* https://documenter.getpostman.com/view/733051/UVC2G8o3
