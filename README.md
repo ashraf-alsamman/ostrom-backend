@@ -20,4 +20,5 @@ A simple crud project.
 - run `yarn start`
 - run `yarn test`
 
-* No need to add an API key to test this project
+live demo
+* https://ostrom-frontend.herokuapp.com
